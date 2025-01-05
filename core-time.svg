@@ -1,0 +1,17 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="29.8691" y="11.1309" width="4.26308" height="41.7753" fill="#D4B2FF"/>
+<circle cx="32.0006" cy="11.1314" r="2.13144" fill="#481C92"/>
+<circle cx="32.0006" cy="32.0182" r="2.13144" fill="white"/>
+<circle cx="32.0006" cy="52.9068" r="2.13144" fill="#481C92"/>
+<g style="mix-blend-mode:multiply">
+<rect x="12.8457" y="23.4219" width="4.26308" height="41.7753" transform="rotate(-60 12.8457 23.4219)" fill="#8F4AFF"/>
+<circle cx="13.9116" cy="21.5753" r="2.13144" transform="rotate(-60 13.9116 21.5753)" fill="#481C92"/>
+<circle cx="50.0893" cy="42.464" r="2.13144" transform="rotate(-60 50.0893 42.464)" fill="#481C92"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<rect x="14.9785" y="44.3086" width="4.26308" height="41.7753" transform="rotate(-120 14.9785 44.3086)" fill="#F2E7FF"/>
+</g>
+<circle cx="13.913" cy="42.4634" r="2.13144" transform="rotate(-120 13.913 42.4634)" fill="#481C92"/>
+<circle cx="50.0907" cy="21.5767" r="2.13144" transform="rotate(-120 50.0907 21.5767)" fill="#481C92"/>
+<circle cx="32.0006" cy="32.0182" r="2.13144" fill="white"/>
+</svg>
